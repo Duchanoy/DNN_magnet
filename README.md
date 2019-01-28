@@ -1,5 +1,5 @@
 # DNN_magnet
-Dataset and Architectures for a hysteresis model of a magnetorheological damper complement of the article submitted to IEEEAccess entitle  A Deep Neural Network based model for a kind of magnetorheological dampers.
+Dataset and Architectures for a hysteresis model of a magnetorheological damper complement of the article submitted to Neurocomputing entitle  A Deep Neural Network based model for a kind of magnetorheological dampers.
 
 ## Data Sets
 The datasets are formed by a pair of JSON files in the format *File_name.json* and *inp_File_name.json*. In the main file *File_name.json* can be found the actual measurements of the magnetorheological damper. 
